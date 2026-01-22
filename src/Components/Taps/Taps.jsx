@@ -40,7 +40,7 @@ export default function Taps() {
                                 <p>You will need to apply for a student visa. The supporting documents you must provide are:</p>
                                 <p><img src="/Bullet.svg" alt="" />Two passport-size photos with a white background.</p>
                                 <p><img src="/Bullet.svg" alt="" />Application Form.</p>
-                                <p><img src="/Bullet.svg" alt="" />Health Declaration Form<a href='https://visa.educationmalaysia.gov.my/media/docs/Lampiran_B_-_Health_Declaration_Form_For_Applicant.pdf'>(can be downloaded here)</a>.</p>
+                                <p><img src="/Bullet.svg" alt="" />Health Declaration Form<a style={{color : "black"}} href='https://visa.educationmalaysia.gov.my/media/docs/Lampiran_B_-_Health_Declaration_Form_For_Applicant.pdf'>(can be downloaded here)</a>.</p>
                                 <p><img src="/Bullet.svg" alt="" />High school and most recent academic certificates.</p>
                                 <p><img src="/Bullet.svg" alt="" />Scanned files of all pages of your passport, with at least 1 year of validity. </p>
                                 <p><img src="/Bullet.svg" alt="" />Proof of Payment.</p>

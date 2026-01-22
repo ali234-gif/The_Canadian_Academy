@@ -12,6 +12,7 @@ import Footer from './Components/Footer/Footer';
 import Inroll from './Pages/Inroll/Inroll';
 import CourseDetailsPage from './Components/CourseDetails/CourseDetailsPage';
 import Certificate from './Pages/Certificate/Certificate';
+import SnapPixel from './Components/SnapPixel';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <main className='UltraSection'>
+       <SnapPixel />
       {!hideNavbar && <Navbar/>}
       <Routes>
         <Route path="/" element={<Home />}/>
