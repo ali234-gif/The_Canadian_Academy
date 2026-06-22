@@ -5,9 +5,9 @@ import emailjs from 'emailjs-com';
 import { motion } from "framer-motion"; 
 import { Link } from 'react-router-dom';
 
-const SERVICE_ID = 'service_me6tc4q';
-const TEMPLATE_ID = 'template_r0p8edm';
-const PUBLIC_KEY = 'jS_MzaP75bFS9HTFa';
+const SERVICE_ID = 'service_xeyhynt';
+const TEMPLATE_ID = 'template_mnnpj6j';
+const PUBLIC_KEY = 'MmpRHn8W1QBx_eCcF';
 
 const slideInLeft = {
     hidden: { opacity: 0, x: -50 },
